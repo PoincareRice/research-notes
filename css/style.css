@@ -12,6 +12,10 @@ header {
   text-align: center;
 }
 
+.site-title {
+  color: white;
+}
+
 nav a {
   color: white;
   margin: 0 15px;
